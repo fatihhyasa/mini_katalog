@@ -1,17 +1,12 @@
-# mini_katalog
+# Mini Katalog Uygulaması
 
-A new Flutter project.
+## Kısa Açıklama
+Bu proje, Flutter eğitim kampı bitirme görevi olarak geliştirilmiş temel bir e-ticaret/katalog uygulamasıdır. Proje kapsamında sadece varsayılan `material.dart` paketi kullanılmış olup; sayfa geçişleri (Navigator), veri modelleme (JSON simülasyonu), GridView ile ürün listeleme ve basit state yönetimi (Sepet sistemi) mantığı uygulanmıştır.
 
-## Getting Started
+## Kullanılan Flutter Sürümü
+- Flutter SDK: 3.19.0 
+- Dart SDK: 3.3.0 
 
-This project is a starting point for a Flutter application.
+## Ekran Görüntüleri
+Screenshots klasöründe uygulamanın çalışma anından ekran görüntüleri bulunmaktadır.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
